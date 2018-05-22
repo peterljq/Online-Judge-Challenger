@@ -3,8 +3,8 @@
 [![language](https://img.shields.io/badge/Language-C++-blue.svg)](https://img.shields.io/badge/Language-C++-blue.svg)
 
     Latest Status:
-    17 May 2018: 1. Nanyang Tech. Univ. APAS Folder Created
-                 2. PKU OJ Folder Created
+    22 May 2018: 1. Studying Algo Course by Stanford
+                 2. Exploring PKU OJ
   
 What is it
 ----------
