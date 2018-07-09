@@ -1,1 +1,1 @@
-Recommended by Dr.Huang, I am currently training on this OJ system.
+Recommended by Dr.Huang, later we may train on this OJ system.
