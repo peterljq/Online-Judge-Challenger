@@ -3,8 +3,8 @@
 [![language](https://img.shields.io/badge/Language-C++-blue.svg)](https://img.shields.io/badge/Language-C++-blue.svg)
 
     Latest Status:
-    22 May 2018: 1. Studying Algo Course by Stanford
-                 2. Exploring PKU OJ
+    08 July 2018: 1. Java Practising
+                  2. UVa OJ & PKU OJ
   
 What is it
 ----------
