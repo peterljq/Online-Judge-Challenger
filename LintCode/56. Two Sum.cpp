@@ -5,6 +5,8 @@ public:
      * @param target: target = numbers[index1] + numbers[index2]
      * @return: [index1, index2] (index1 < index2)
      */
+    //https://www.lintcode.com/problem/two-sum
+    //If return elements, algo can be easier.
     vector<int> twoSum(vector<int> &numbers, int target) {
         // write your code here
         int left = 0;
