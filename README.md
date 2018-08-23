@@ -5,7 +5,6 @@
 
 [![language](https://img.shields.io/badge/Language-Java-orange.svg)](https://img.shields.io/badge/Language-Java-orange.svg)
 [![language](https://img.shields.io/badge/Language-C++-blue.svg)](https://img.shields.io/badge/Language-C++-blue.svg)
-[![language](https://img.shields.io/badge/Language-C-purple.svg)](https://img.shields.io/badge/Language-C-purple.svg)
 
 ***
     Latest Status:
