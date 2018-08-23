@@ -1,21 +1,26 @@
-void quicksort(int arr[], int start, int end){
-    if(start >= end){}
+void quicksort(int a[],int start,int end,int *swaptimes){
+    int left = start;
+    int right = end;
+    int pivot = (start + end) / 2;
+    if(left >= right){}
     else{
-        int left = start;
-        int right = end;
-        int pivot = (start + end)/2;
-        while(left <= right && arr[left] < arr[pivot]){
+        while(left <= right && a[left] < a[pivot]){
             left ++;
         }
-        while(left <= right && arr[right] > arr[pivot]){
+        while(left <= right && a[right] > a[pivot]){
             right --;
         }
-        int temp = arr[left];
-        arr[left] = arr[right];
-        arr[right] = temp;
-        left++;
-        right--;
-        quicksort(arr, left, end);
-        quicksort(arr, start, right);
+        if(left <= right){
+            int temp = a[left];
+            a[left] = a[right];
+            a[right] = temp;
+            if(left != right){
+                (*swaptimes) ++;
+            }
+            left ++;
+            right --;
+        }
+        quicksort(a, start, right, swaptimes);
+        quicksort(a, left, end, swaptimes);
     }
 }
