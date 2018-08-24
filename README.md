@@ -1,6 +1,4 @@
 # Online-Judge-Challenger 剑指OJ
-![](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/320px-Nanyang_Technological_University.svg.png)
-
 ***
 
 [![language](https://img.shields.io/badge/Language-Java-orange.svg)](https://img.shields.io/badge/Language-Java-orange.svg)
