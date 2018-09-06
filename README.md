@@ -12,7 +12,7 @@
   
 What is it
 ----------
-A respository that records and shares my experience of exploring kinds of online judges during practicing time.
+A respository that records and shares my experience of coding on online judges during practicing time.
 
 **LeetCode Solutions done by me may not be uploaded to this repository due to copyright issues.**
 
