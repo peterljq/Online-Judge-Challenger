@@ -14,6 +14,8 @@ What is it
 ----------
 A respository that records and shares my experience of exploring kinds of online judges during practicing time.
 
+**Currently I am not uploading LeetCode Solutions to this repository due to copyright issues.**
+
 Special Thanks
 ----------
 Thanks for the Jiuzhang Algorithms Tutorial Series. That strongly pushes my practice progress.
