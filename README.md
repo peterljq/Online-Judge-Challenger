@@ -5,9 +5,7 @@
 [![language](https://img.shields.io/badge/Language-C++-blue.svg)](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ***
-    Latest Status:
-    Sept. 2018: 1. Singapore National Pre-Select
-                2. Kattis ladder & Lintcode practice
+    Latest Status: Weekly training goes on.
 ***
   
 What is it
